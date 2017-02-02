@@ -1,2 +1,2 @@
 # swampy
-# For use with fractalword
+For use with fractalword
